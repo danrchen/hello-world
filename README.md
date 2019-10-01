@@ -1,4 +1,4 @@
 # hello-world
-hello world project
+hello world!
 
-hello, am i doing this right, some please help
+
